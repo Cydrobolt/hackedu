@@ -2,10 +2,19 @@
 
 We are going to make a bullet dodging game:
 
-[![](img/game_play.gif)](http://output.jsbin.com/dozoki/62)
+[![](img/game_play.gif)](http://output.jsbin.com/dozoki/63)
 
-- [Play The Game](http://output.jsbin.com/dozoki/62)
-- [See The Code](http://jsbin.com/dozoki/62/edit?js,output)
+- [Play The Game](http://output.jsbin.com/dozoki/63)
+- [See The Code](http://jsbin.com/dozoki/63/edit?js,output)
+
+## Some Vocabulary
+
+> ![](img/r_vocab1.png)
+
+The entire screen on which everything lives is called the "canvas":
+
+> ![](img/r_vocab2.png)
+
 
 ## Steps
 
