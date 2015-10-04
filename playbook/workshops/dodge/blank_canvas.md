@@ -1,17 +1,15 @@
 # Blank Canvas
 
-We'll be using JS Bin for this tutorial. If you would prefer to use your own
-editor, please go ahead!
+We'll be using JS Bin for this tutorial. Feel free to use your own editor.
 
-![](img/checkmark.png) If you don't have a [JS Bin](https://jsbin.com) account
-already, please make sure that you [create one by following these
-directions](#TODO).
+![](img/checkmark.png) If you are using JS Bin, make sure you have created an
+account [by following these directions](#TODO).
 
 ![](img/checkmark.png) Then open [this pre-made JS Bin template]
-(http://jsbin.com/kecodi/3/edit?js,output). You will be using this JS Bin
-for the entire tutorial.
+(http://jsbin.com/kecodi/3/edit?js,output). You will be building off this
+template throughout the tutorial.
 
-Here is the excerpt of the code:
+Here is the excerpt of the code from the JS Bin template:
 
 ```js
 function setup() {
@@ -23,8 +21,8 @@ function draw() {
 }
 ```
 
-![](img/checkmark.png) Try changing around with some of the values to figure out
-what they do. Below are some gifs of me messing around:
+![](img/checkmark.png) Try changing around with some of the values in the JS Bin
+to figure out what they do. Below are some gifs of me messing around:
 
 ## Messing with the canvas size:
 
