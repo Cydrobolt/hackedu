@@ -18,51 +18,10 @@ TODO:There are explanatory boxes
 
 
 
-![](img/checkmark.png) Open [this pre-made project]
-(http://jsbin.com/kecodi/3/edit?js,output).
 
 There are libraries included in the HTML file that make this work.
 We'll focus on JavaScript and the output tabs.
 
-Here is the exerpt of the code:
-
-```js
-function setup() {
-  createCanvas(300, 500);
-}
-
-function draw() {
-  background(255, 240, 220);
-}
-```
-
-
-```
-createCanvas(300, 500);
-              ^    ^
-              |    └ This sets the *height* of the drawing area to 400
-              |
-              └ This sets the *width* of the drawing area to 600
-```
-
-TODO: Insert drawing of canvas that outlines on the edges 300 x 500
-
-![](img/checkmark.png) Try changing some of the values around.
-
-```
-This code sets the background color:
-
-  background(255, 255, 255);
-              ^    ^    ^
-              |    |    └ This sets how much *blue* there is
-              |    |    
-              |    └ This sets how much *green* there is
-              |
-              └ This sets how much *blue* there is
-
-```
-
-![](img/checkmark.png) Try changing some of the values around.
 
 > ![](img/documentation.png)
 >

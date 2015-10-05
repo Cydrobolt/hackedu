@@ -10,6 +10,7 @@ We are going to make a bullet dodging game:
 ## Some Vocabulary
 
 > ![](img/r_vocab1.png)
+<!-- Editable Drawing in: https://docs.google.com/drawings/d/1Px_9MVqn2qv6ASDl7vxglR2lXVpHVaNsvT9lyrqWzmM/edit -->
 
 The entire screen on which everything lives is called the "canvas":
 
